@@ -1,6 +1,6 @@
 {
-  "name": "node_cli",
-  "version": "1.0.0",
+  "name": "zlh_cli",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "bin": "cli.js",
